@@ -9,4 +9,43 @@
 body {
     font-family: Righteous, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* Styling heading and logo */
+
+h1, h2 {
+    font-family: Righteous, sans-serif;
+    color: rgb(18, 153, 171)
+}
+
+#logo {
+    float: left;
+    font-size: 200%;
+}
+
+/* Styling Links */
+
+#menu {
+    font-size: 110%;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
