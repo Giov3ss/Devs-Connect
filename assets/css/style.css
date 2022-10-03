@@ -171,11 +171,12 @@ h1, h2 {
 
 /* styling sign-up and forms */
 
-#sign-up {
+#sign-up h2 {
     text-align: center;
-    font-size: large;
+    font-size: 28px;
     margin-top: 8%;
     margin-bottom: 1%;
+    color: #fff;
 }
 
 .container {
@@ -183,9 +184,10 @@ h1, h2 {
     height: 45vh;
     display: flex;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
-    margin-left: 29%;
+    margin-left: 32%;
     background-color: rgb(94, 190, 232, .7);
     align-items: center;
+    border-radius: 2%;
  
 }
 
@@ -204,7 +206,7 @@ h1, h2 {
     display: block;
     width: 10rem;
     height: 0.3rem;
-    background-color: rgb(94, 190, 232, .7);
+    background-color: #fff;
     position: absolute;
     border-radius: 10px;
     margin-left: 43%;
