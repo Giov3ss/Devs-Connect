@@ -107,7 +107,8 @@ h1, h2 {
 #about {
     text-align: center;
     font-size: large;
-    margin-top: 20px;  
+    margin-top: 20px; 
+    margin-top: 2%; 
 }
 
 #about h1::after {
@@ -129,7 +130,7 @@ h1, h2 {
     line-height: 30px;
     margin-right: 200px;
     margin-left: 200px;
-    
+    margin-top: 2%;
 
 }
 
@@ -164,7 +165,7 @@ h1, h2 {
     position: absolute;
     height: 20rem;
     width: 40%;
-    top: 59rem; 
+    top: 61rem; 
     right: 15%;
 }
 
