@@ -171,23 +171,25 @@ h1, h2 {
 
 /* styling sign-up and forms */
 
-#sign-up h2 {
+#color-back > h2 {
     text-align: center;
     font-size: 28px;
     margin-top: 8%;
-    margin-bottom: 1%;
     color: #fff;
+    padding-top: 2%;
+    
 }
 
 .container {
     width: 35%;
-    height: 45vh;
+    height: 50vh;
     display: flex;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
     margin-left: 32%;
     background-color: rgb(94, 190, 232, .7);
     align-items: center;
     border-radius: 2%;
+    margin-top: 3%;
  
 }
 
@@ -201,7 +203,7 @@ h1, h2 {
     margin-top: 3%;
 }
 
-#sign-up h2::after {
+#color-back h2::after {
     content: '';
     display: block;
     width: 10rem;
@@ -232,6 +234,23 @@ h1, h2 {
     box-shadow: 1px 1px 6px #0000001c;
 }
 
+.join-button {
+    margin: 0.6rem 0;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    margin-left: 16%;
+}
+
+.join-button:hover {
+    background-color: #eeeeee75;
+}
+
+.join-button:focus-visible {
+    outline: 1px solid rgb(94, 190, 232, .7);
+}
+
 .input-box input:hover {
     background-color: #eeeeee75;
 }
@@ -243,7 +262,32 @@ h1, h2 {
 body #color-back {
     background-color: rgb(94, 190, 232, .7);
     width: 100%;
-    height: 55vh;
+    height: 70vh;
     margin-top: 1.5%;
-  
+}
+
+/* styling footer */
+
+#contact h2 {
+    text-align: center;
+    margin-top: 2%;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-medias {
+    text-align: center;
+}
+
+.social-medias > li {
+    display: inline;
+}
+
+.social-medias i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: rgba(4, 72, 101, 0.7);
 }
