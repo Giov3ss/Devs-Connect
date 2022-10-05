@@ -111,7 +111,7 @@ h1, h2 {
     margin-top: 2%; 
 }
 
-#about h1::after {
+#about h2::after {
     content: '';
     display: block;
     width: 5.6rem;
@@ -125,7 +125,7 @@ h1, h2 {
 #about > p {
     font-family: Quicksand, sans-serif;
     text-decoration: none;
-    text-align: center;
+   /* text-align: center; */
     margin: 10px;
     line-height: 30px;
     margin-right: 200px;
@@ -137,20 +137,20 @@ h1, h2 {
 /* styling times section */
 
 #times {
-    text-align: left;
-    margin-top: 100px;
-    font-size: 1.5em;
-    margin-left: 300px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.2em;
+    
 }
 
 #content-times {
     font-family: Quicksand, sans-serif;
     margin-top: 10px;
     line-height: 30px;
-    margin-left: 300px;
+    
 }
 
-#times h1::after {
+#times h2::after {
     content: '';
     display: block;
     width: 7rem;
@@ -158,20 +158,24 @@ h1, h2 {
     background-color: rgb(94, 190, 232, .7);
     position: absolute;
     border-radius: 10px;
-    margin-left: 4%;
+    margin-left: 45%;
 }
 
-#maps {
-    position: absolute;
-    height: 20rem;
-    width: 40%;
-    top: 61rem; 
-    right: 15%;
+.maps {
+   /* position: absolute; */
+    height: 13rem;
+    width: 50%;
+   /* top: 61rem; */ 
+    
+    flex-direction: column;
+    padding-top: 4%;
+    
+    
 }
 
 /* styling sign-up and forms */
 
-#sign-up > h1 {
+#sign-up > h2 {
     text-align: center;
     font-size: 28px;
     margin-top: 8%;
@@ -203,7 +207,7 @@ h1, h2 {
     margin-top: 3%;
 }
 
-#sign-up h1::after {
+#sign-up h2::after {
     content: '';
     display: block;
     width: 10rem;
@@ -241,6 +245,7 @@ h1, h2 {
     border-radius: 10px;
     box-shadow: 1px 1px 6px #0000001c;
     margin-left: 16%;
+    display: block;
 }
 
 .join-button:hover {
@@ -302,4 +307,170 @@ footer {
     margin: 1%;
     padding: 5%;
     color: rgba(4, 72, 101, 0.7);
+}
+  
+/* media queries 740px */
+
+@media screen and (max-width: 740px) {
+    .container {
+        max-width: 100%;
+    }
+    #about {
+        width: 100%;
+        margin: auto;
+        margin-top: 3%;
+    }
+    .join-button {
+        display: block;
+    }
+    
+}
+
+/* media 678px */
+
+@media screen and (max-width: 678px) {
+    #about p {
+        display: contents;
+        font-size: 15px;
+    }
+    .container {
+        display: inline-flex;
+        width: auto;
+    }
+    .join-button {
+        display: block;
+    }
+    
+}
+
+
+/* media 550px */
+
+ @media screen and (max-width: 550px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #about h2 {
+        font-size: 25px;
+    }
+
+    #sign-up h2 {
+        font-size: 25px;
+    }
+
+    #times h2 {
+        font-size: 25px;
+    }
+
+    #content-times h3 {
+        font-size: 17px;
+    }
+
+    .container {
+        width: 0;
+        align-items: center;
+        margin-left: 45%;
+        text-align: center;
+    }
+
+    .join-button {
+        display: block;
+    }
+
+    #contact h2 {
+        font-size: 25px;
+    }
+    
+}
+
+@media screen and (max-width: 425px) {
+    #cover-text {
+        right: 0
+    }
+    #about {
+        text-align: -webkit-center;
+        margin-top: 5%;
+        
+    }
+    #sign-up h2 {
+        font-size: 20px;
+    }
+    #about h2 {
+        font-size: 20px;
+    }
+    #times h2 {
+        font-size: 20px;
+    }
+
+    #content-times h3 {
+        font-size: 17px;
+    }
+    #contact h2 {
+        font-size: 20px;
+    }
+    .container {
+        width: 0;
+        align-items: center;
+        margin-left: 42%;
+        text-align: center;
+    }
+    .join-button {
+        display: block;
+    }
+
+}
+ 
+
+/* media 375px */
+
+@media screen and (max-width: 375px) {
+    #about {
+        text-align: -webkit-center;
+        margin-top: 5%;
+    }  
+       
+    .container {
+        width: 0;
+        align-items: center;
+        margin-left: 43%;
+        text-align: center;
+    }
+    .join-button {
+        display: block;
+    }
+}
+
+/* media 320px */
+
+@media screen and (max-width: 320px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 25px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #logo {
+        display: flex;
+    }
+    
+    #cover-text h2 h3{
+        font-size: 100%;
+    }
+    #sign-up h2 {
+        font-size: 17px;
+    }
+    #contact h2 {
+        font-size: 17px;
+    }
+    
+    #social-medias {
+        font-size: 50%;
+    }
+    
 }
