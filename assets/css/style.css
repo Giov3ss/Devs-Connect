@@ -64,7 +64,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("../images/hero-image1.jpg") no-repeat center center;
+    background: url("../images/hero-image3.jpg") no-repeat center center;
 
     /* animation on loading page */
     animation-name: hero-zoom;
@@ -88,16 +88,16 @@ h1, h2 {
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 100%;
     font-family: Quicksand, sans-serif;
     text-transform: uppercase;
-    width: 270px;
-    height: 170px;
-    padding-top: 40px;
+    width: 200px;
+    height: 120px;
+    padding-top: 20px;
     padding-left: 10px;
     background-color: rgb(94, 190, 232, .7);
     bottom: 30px;
-    right: 150px;
+    right: 30px;
     position: absolute;
    
 }
@@ -106,7 +106,7 @@ h1, h2 {
 
 #about {
     text-align: center;
-    font-size: large;
+    font-size: 20px;
     margin-top: 20px; 
     margin-top: 2%; 
 }
@@ -125,7 +125,6 @@ h1, h2 {
 #about > p {
     font-family: Quicksand, sans-serif;
     text-decoration: none;
-   /* text-align: center; */
     margin: 10px;
     line-height: 30px;
     margin-right: 200px;
@@ -311,15 +310,20 @@ footer {
   
 /* media queries 740px */
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 768px) {
     .container {
         max-width: 100%;
     }
     #about {
         width: 100%;
-        margin: auto;
+        margin: 0 auto;
         margin-top: 3%;
     }
+
+    #about p {
+        font-size: 20px;
+    }
+
     .join-button {
         display: block;
     }
@@ -328,14 +332,34 @@ footer {
 
 /* media 678px */
 
-@media screen and (max-width: 678px) {
+@media screen and (max-width: 680px) {
+    #about {
+        width: 85%;
+        margin-top: 3%;
+    }
+    
+    #about h2 {
+        font-size: 25px;
+    }
+    
     #about p {
         display: contents;
-        font-size: 15px;
+        font-size: 17px;
     }
+
+    #times h2 {
+        font-size: 25px;
+    }
+
+    #content-times h3 {
+        font-size: 17px;
+    }
+
     .container {
-        display: inline-flex;
-        width: auto;
+        width: 0;
+        align-items: center;
+        margin-left: 45%;
+        text-align: center;
     }
     .join-button {
         display: block;
@@ -347,6 +371,7 @@ footer {
 /* media 550px */
 
  @media screen and (max-width: 550px) {
+    
     #menu {
         clear: left;
         float: left;
@@ -389,14 +414,13 @@ footer {
 }
 
 @media screen and (max-width: 425px) {
-    #cover-text {
-        right: 0
-    }
+    
+    
     #about {
-        text-align: -webkit-center;
+        width: 85%;
         margin-top: 5%;
-        
     }
+
     #sign-up h2 {
         font-size: 20px;
     }
@@ -423,6 +447,10 @@ footer {
         display: block;
     }
 
+    #contact h2 {
+        margin-top: 10%;
+    }
+
 }
  
 
@@ -432,7 +460,11 @@ footer {
     #about {
         text-align: -webkit-center;
         margin-top: 5%;
-    }  
+    }
+    
+    #sign-up h2 {
+        font-size: 17px;
+    }
        
     .container {
         width: 0;
@@ -442,6 +474,10 @@ footer {
     }
     .join-button {
         display: block;
+    }
+
+    #contact h2 {
+        margin-top: 10%;
     }
 }
 
@@ -459,18 +495,18 @@ footer {
         display: flex;
     }
     
-    #cover-text h2 h3{
-        font-size: 100%;
+    #about {
+        width: 85%;
+        margin-top: 5%;
     }
+    
     #sign-up h2 {
         font-size: 17px;
     }
     #contact h2 {
         font-size: 17px;
     }
-    
-    #social-medias {
-        font-size: 50%;
+    #contact h2 {
+        margin-top: 10%;
     }
-    
 }
