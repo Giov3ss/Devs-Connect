@@ -14,9 +14,13 @@ body {
 
 /* Styling heading and logo */
 
+#color {
+    background-color: rgba(184, 138, 104, 1);
+}
+
 h1, h2 {
     font-family: Righteous, sans-serif;
-    color: rgb(18, 153, 171);
+    color: rgba(98, 61, 43, 1);
 }
 
 #logo {
@@ -28,7 +32,7 @@ h1, h2 {
 
 #menu {
     font-size: 110%;
-    color: rgb(18, 153, 171)
+    color: rgba(98, 61, 43, 1);
 
 }
 
@@ -59,12 +63,14 @@ h1, h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
+    
 }
 
 #hero-image {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image3.jpg") no-repeat center center;
+   
 
     /* animation on loading page */
     animation-name: hero-zoom;
@@ -95,7 +101,7 @@ h1, h2 {
     height: 120px;
     padding-top: 20px;
     padding-left: 10px;
-    background-color: rgb(94, 190, 232, .7);
+    background-color: rgba(184, 138, 104, 1);
     bottom: 30px;
     right: 30px;
     position: absolute;
@@ -116,7 +122,7 @@ h1, h2 {
     display: block;
     width: 5.6rem;
     height: 0.3rem;
-    background-color: rgb(94, 190, 232, .7);
+    background-color: rgba(108, 111, 112, 1);
     position: absolute;
     border-radius: 10px;
     margin-left: 44.5%;
@@ -154,7 +160,7 @@ h1, h2 {
     display: block;
     width: 7rem;
     height: 0.3rem;
-    background-color: rgb(94, 190, 232, .7);
+    background-color: rgba(108, 111, 112, 1);
     position: absolute;
     border-radius: 10px;
     margin-left: 45%;
@@ -189,7 +195,7 @@ h1, h2 {
     display: flex;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
     margin-left: 32%;
-    background-color: rgb(94, 190, 232, .7);
+    background-color: rgba(235, 235, 237, 1);
     align-items: center;
     border-radius: 2%;
     margin-top: 3%;
@@ -211,7 +217,7 @@ h1, h2 {
     display: block;
     width: 10rem;
     height: 0.3rem;
-    background-color: #fff;
+    background-color: rgba(108, 111, 112, 1);
     position: absolute;
     border-radius: 10px;
     margin-left: 43%;
@@ -238,21 +244,22 @@ h1, h2 {
 }
 
 .join-button {
-    margin: 0.6rem 0;
     padding: 0.8rem 1.2rem;
     border: none;
     border-radius: 10px;
-    box-shadow: 1px 1px 6px #0000001c;
-    margin-left: 16%;
+    box-shadow: 1px 1px 6px 1px #3a3a3a;
+    margin-left: 15%;
     display: block;
+    margin-bottom: 5%;
+
 }
 
 .join-button:hover {
-    background-color: #eeeeee75;
+    background-color: rgba(147, 88, 54, 1);
 }
 
 .join-button:focus-visible {
-    outline: 1px solid rgb(94, 190, 232, .7);
+    outline: 1px solid rgba(147, 88, 54, 1);
 }
 
 .input-box input:hover {
@@ -260,11 +267,11 @@ h1, h2 {
 }
 
 .input-box input:focus-visible {
-    outline: 1px solid rgb(94, 190, 232, .7);
+    outline: 1px solid rgba(147, 88, 54, 1);
 }
 
 body #sign-up {
-    background-color: rgb(94, 190, 232, .7);
+    background-color: rgba(184, 138, 104, 1);
     width: 100%;
     height: 70vh;
     margin-top: 1.5%;
@@ -283,7 +290,7 @@ body #sign-up {
     display: block;
     width: 10rem;
     height: 0.3rem;
-    background-color: rgb(94, 190, 232, .7);
+    background-color: rgba(108, 111, 112, 1);
     position: absolute;
     border-radius: 10px;
     margin-left: 43%;
@@ -305,7 +312,7 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: rgba(4, 72, 101, 0.7);
+    color: rgba(98, 61, 43, 1);
 }
   
 /* media queries 740px */
