@@ -117,17 +117,6 @@ h1, h2 {
     margin-top: 2%; 
 }
 
-#about h2::after {
-    content: '';
-    display: block;
-    width: 5.6rem;
-    height: 0.3rem;
-    background-color: rgba(108, 111, 112, 1);
-    position: absolute;
-    border-radius: 10px;
-    margin-left: 44.5%;
-}
-
 #about > p {
     font-family: Quicksand, sans-serif;
     text-decoration: none;
@@ -155,17 +144,6 @@ h1, h2 {
     
 }
 
-#times h2::after {
-    content: '';
-    display: block;
-    width: 7rem;
-    height: 0.3rem;
-    background-color: rgba(108, 111, 112, 1);
-    position: absolute;
-    border-radius: 10px;
-    margin-left: 45%;
-}
-
 .maps {
    /* position: absolute; */
     height: 13rem;
@@ -184,7 +162,7 @@ h1, h2 {
     text-align: center;
     font-size: 28px;
     margin-top: 8%;
-    color: #fff;
+    color: #623D2B;
     padding-top: 2%;
     
 }
@@ -210,17 +188,6 @@ h1, h2 {
     flex-direction: column;
     padding: 2rem; 
     margin-top: 3%;
-}
-
-#sign-up h2::after {
-    content: '';
-    display: block;
-    width: 10rem;
-    height: 0.3rem;
-    background-color: rgba(108, 111, 112, 1);
-    position: absolute;
-    border-radius: 10px;
-    margin-left: 43%;
 }
 
 .input-group {
@@ -320,19 +287,8 @@ body #sign-up {
     font-size: 28px;
 }
 
-#contact h2::after {
-    content: '';
-    display: block;
-    width: 10rem;
-    height: 0.3rem;
-    background-color: rgba(108, 111, 112, 1);
-    position: absolute;
-    border-radius: 10px;
-    margin-left: 43%;
-}
-
 footer {
-    height: 150px;
+    height: fit-content;
 }
 
 .social-medias {
@@ -345,9 +301,18 @@ footer {
 
 .social-medias i {
     font-size: 160%;
-    margin: 1%;
+   /* margin: 1%; */
+    margin-bottom: 1%;
     padding: 5%;
     color: rgba(98, 61, 43, 1);
+}
+
+.copyright {
+    background-color: #fff;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    text-align: center;
+    color: #623D2B;
 }
   
 /* media queries 740px */
@@ -482,7 +447,7 @@ footer {
     .container {
         width: 0;
         align-items: center;
-        margin-left: 42%;
+        margin-left: 43%;
         text-align: center;
     }
     .join-button {
@@ -492,6 +457,9 @@ footer {
     #contact h2 {
         margin-top: 10%;
     }
+    .copyright {
+        font-size: 0.6rem;
+    }
 
 }
  
@@ -500,7 +468,7 @@ footer {
 
 @media screen and (max-width: 375px) {
     #about {
-        text-align: -webkit-center;
+        text-align: center;
         margin-top: 5%;
     }
     
@@ -511,7 +479,7 @@ footer {
     .container {
         width: 0;
         align-items: center;
-        margin-left: 43%;
+        margin-left: 41%;
         text-align: center;
     }
     .join-button {
