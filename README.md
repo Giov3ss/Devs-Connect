@@ -1,6 +1,6 @@
 # **Dev's Connect**
 
-Dev's Connect is a meetup club for digital professionals, students and enthusiasts to share their insights into a new software technologies with each other. The site will be targeted toward the techonogy people in general who are looking for a way to socialise and It's also an opportunity to meet new friends, talk about your own project, find new opportunities and of course have fun.
+Dev's Connect is a meetup club for digital professionals, students and enthusiasts to share their insights into a new software technologies with each other. The site is aimed at tech people in general looking for a way to socialize and is also an opportunity to make new friends, talk about your own project, find new opportunities and of course have fun.
 
 ![Responsive](./documentation/responsive.png)
 
@@ -86,6 +86,7 @@ The colour was design by [Coolors] (https://coolors.co/623d2b-935836-6c6f70-ebeb
 Google fonts was used:
 
 Righteous: Was used for the headings of the site
+
 Quicksand: Was used for the content of the site.
 
 ### Imagery
@@ -93,7 +94,7 @@ The photos were obtained from the free provider: [Pexels] (https://www.pexels.co
 
 ### Site Structure
 
-Dev's Connect is a 4-section, 2-page website. The home page is the default loading page and the other sections are accessible from the navigation menu on the right side of the page.
+Dev's Connect is a 4-section and 2-page website. The home page is the default loading page and the other sections are accessible from the navigation menu on the right side of the page.
 
 ### Wireframes 
 
@@ -117,15 +118,15 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 ![Navigation bar](./documentation/navigation.png)
 
 ### Header
-- The header contain the hero-image of the site and a small box on the right inviting the user to join this club.
+- The header contain the hero-image of the site and a small box on the right inviting the user to join our club.
 ![Header](./documentation/header.png)
 
 ### About Section 
-- The about section explain to the user more about this meetup club, for what purpose was created and show the main goal with users.
+- The about section explain to the user more about this meetup club, for what purpose was created and show the main goal with users which is to help new members in the area of ​​technology, also an opportunity to show your project, talk about new softwares and socialize.
 ![About](./documentation/about.png)
 
 ### Sign Up Newsletter Section
-- The newsletter section has a form to collect data for the user who wants to be part of the club and receive news updates and weekly newsletter about the world of technology by email.
+- The newsletter section has a form to collect data for the user who wants to be part of the club and receive new updates and weekly newsletter about the world of technology by email.
 ![sign up](./documentation/sign-up.png)
 
 ### Footer Section
