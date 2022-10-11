@@ -77,7 +77,7 @@ The site should promote and help anyone who wants to start a career in the Techn
 ### Colour Scheme 
 
 The colours scheme was inspired by the Hero Image, with different shades of Dyke Brown and Saddle Brown.
-![colour_palette](./documentation/palettes.png)
+![colour palette](./documentation/palettes.png)
 
 The colour was design by [Coolors] (https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) to generate some color code as inspiration for the website.
 
@@ -100,7 +100,7 @@ Dev's Connect is a 4-section, 2-page website. The home page is the default loadi
 The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 #### Phone 
-![Mobile_Wireframe](./documentation/mobile.png)
+![Mobile Wireframe](./documentation/mobile.png)
 
 #### Desktop
 ![Desktop](./documentation/desktop.png)
@@ -114,7 +114,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 - The navigation bar is responsive and fixed at the top of the page where it shows the name of the site and navigation bar on the right side. 
 - The links in the navigation bar on the right take the user to the right section of the site on the same page.
-![Navigation_bar](./documentation/navigation.png)
+![Navigation bar](./documentation/navigation.png)
 
 ### Header
 - The header contain the hero-image of the site and a small box on the right inviting the user to join this club.
@@ -126,7 +126,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 ### Sign Up Newsletter Section
 - The newsletter section has a form to collect data for the user who wants to be part of the club and receive news updates and weekly newsletter about the world of technology by email.
-![sign_up](./documentation/sign-up.png)
+![sign up](./documentation/sign-up.png)
 
 ### Footer Section
 - The footer has our contact on social networks, in case the user wants to contact us or just follow us to see our posts from our meetings.
@@ -139,13 +139,14 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 ### Frameworks, Libraries & Programs Used
 - [Balsamiq](https://balsamiq.com/) - For Wireframes.
+- [Adobe Photoshop](https://www.adobe.com/) -  For manipulating images.
 - [coolors.co](https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) - The color scheme that was used on the site.
-- [Font_Awesome](https://fontawesome.com/) - Various icons used throughout the site, using version 5.
-- [Google_Fonts](https://fonts.google.com/) - Both fonts were used by Google Fonts.
-- [Chrome_Devtools](https://developer.chrome.com/docs/devtools/) - Used extensively to experiment with grid, flexbox and general responsiveness. 
+- [Font Awesome](https://fontawesome.com/) - Various icons used throughout the site, using version 5.
+- [Google Fonts](https://fonts.google.com/) - Both fonts were used by Google Fonts.
+- [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - Used extensively to experiment with grid, flexbox and general responsiveness. 
 - [Gitpod](https://www.gitpod.io/) - Used to create and host the website.
 - [Github](https://github.com/) - Used to deploy the website.
-- [Am_I_Responsive](https://ui.dev/amiresponsive) - Used to creat an image displaying the homepage on multiple devices.
+- [Am I Responsive](https://ui.dev/amiresponsive) - Used to creat an image displaying the homepage on multiple devices.
 
 
 ### Deployment 
@@ -179,3 +180,9 @@ To make a copy or ‘fork’ the repository -
 
 [Testing.md](TESTING.md) 
 
+
+### Credits
+I would like to thank my mentor Malia for her help and advise all the time. 
+
+### Media 
+The Hero-Image are from the free website: [Pexels](https://www.pexels.com/).
