@@ -116,6 +116,9 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - The navigation bar is responsive and fixed at the top of the page where it shows the name of the site and navigation bar on the right side. 
 - The links in the navigation bar on the right take the user to the right section of the site on the same page.
 ![Navigation bar](./documentation/navigation.png)
+- For mobile navigation the nav bar stays in view as the user scroll down the page.
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/112728772/195460078-0b5d4ce7-9f28-406a-b984-aaee55f42dab.png">
+
 
 ### Header
 - The header contain the hero-image of the site and a small box on the right inviting the user to join our club.
