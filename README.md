@@ -179,7 +179,7 @@ To make a copy or ‘fork’ the repository -
 
 ### Testing
 
-[Testing.md](TESTING.md) 
+[Testing.md](testing.md) 
 
 
 ### Credits
