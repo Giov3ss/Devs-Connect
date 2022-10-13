@@ -6,6 +6,10 @@
     border: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Righteous, sans-serif;
     font-weight: 300;
@@ -123,9 +127,8 @@ h1, h2 {
     text-decoration: none;
     margin: 10px;
     line-height: 30px;
-    margin-right: 200px;
-    margin-left: 200px;
     margin-top: 2%;
+    text-align: left;
 
 }
 
@@ -169,15 +172,14 @@ h1, h2 {
 }
 
 .container {
-    width: 35%;
-    height: 50vh;
+    width: 50%;
     display: flex;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
     margin-left: 32%;
     background-color: rgba(235, 235, 237, 1);
     align-items: center;
     border-radius: 2%;
-    margin-top: 3%;
+    margin: 3% auto;
  
 }
 
@@ -241,7 +243,7 @@ h1, h2 {
 body #sign-up {
     background-color: rgba(184, 138, 104, 1);
     width: 100%;
-    height: 70vh;
+    padding-bottom: 4%;
     margin-top: 1.5%;
 }
 
@@ -316,14 +318,29 @@ footer {
     color: #623D2B;
 }
   
-/* media queries 740px */
+
+section:not(#hero-overflow, #signup) {
+    max-width: 1400px;
+    margin: 1.2rem auto;
+}
+
+form.sign-form {
+    width: 100%;
+    
+}
+
+
+/* tablet portrait mode (740px) */
 
 @media screen and (max-width: 768px) {
     .container {
         max-width: 100%;
+        width: auto;
+        margin: 2.4rem;
+        text-align: left;
     }
     #about {
-        width: 100%;
+        width: 85%;
         margin: 0 auto;
         margin-top: 3%;
     }
@@ -338,7 +355,7 @@ footer {
     
 }
 
-/* media 678px */
+/* widephones (678px) */
 
 @media screen and (max-width: 680px) {
     #about {
@@ -351,7 +368,7 @@ footer {
     }
     
     #about p {
-        display: contents;
+        text-align: left;
         font-size: 17px;
     }
 
@@ -363,12 +380,6 @@ footer {
         font-size: 17px;
     }
 
-    .container {
-        width: 0;
-        align-items: center;
-        margin-left: 45%;
-        text-align: center;
-    }
     .join-button {
         display: block;
     }
@@ -376,7 +387,7 @@ footer {
 }
 
 
-/* media 550px */
+/* mobile phone styles (550px) */
 
  @media screen and (max-width: 550px) {
     
@@ -404,13 +415,6 @@ footer {
         font-size: 17px;
     }
 
-    .container {
-        width: 0;
-        align-items: center;
-        margin-left: 45%;
-        text-align: center;
-    }
-
     .join-button {
         display: block;
     }
@@ -420,6 +424,8 @@ footer {
     }
     
 }
+
+/* mobile phone styles (425px) */
 
 @media screen and (max-width: 425px) {
     
@@ -445,12 +451,7 @@ footer {
     #contact h2 {
         font-size: 20px;
     }
-    .container {
-        width: 0;
-        align-items: center;
-        margin-left: 43%;
-        text-align: center;
-    }
+ 
     .join-button {
         display: block;
     }
@@ -476,13 +477,7 @@ footer {
     #sign-up h2 {
         font-size: 17px;
     }
-       
-    .container {
-        width: 0;
-        align-items: center;
-        margin-left: 41%;
-        text-align: center;
-    }
+
     .join-button {
         display: block;
     }
