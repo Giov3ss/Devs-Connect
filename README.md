@@ -2,7 +2,7 @@
 
 Dev's Connect is a meetup club for digital professionals, students and enthusiasts to share their insights into a new software technologies with each other. The site is aimed at tech people in general looking for a way to socialize and is also an opportunity to make new friends, talk about your own project, find new opportunities and of course have fun.
 
-![Responsive](./documentation/responsive.png)
+<img width="972" alt="image" src="https://user-images.githubusercontent.com/112728772/195933029-c7243ea0-5774-4709-b173-1efe8093dfde.png">
 
 ## Live Site 
 [Dev's-Connect](https://giov3ss.github.io/Devs-Connect/)
@@ -77,7 +77,7 @@ The site should promote and help anyone who wants to start a career in the Techn
 ### Colour Scheme 
 
 The colours scheme was inspired by the Hero Image, with different shades of Dyke Brown and Saddle Brown.
-![colour palette](./documentation/palettes.png)
+<img width="1398" alt="image" src="https://user-images.githubusercontent.com/112728772/195933184-342a6293-db43-4445-863f-68557b31ce38.png">
 
 The colour was design by [Coolors] (https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) to generate some color code as inspiration for the website.
 
@@ -101,13 +101,13 @@ Dev's Connect is a 4-section and 2-page website. The home page is the default lo
 The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 #### Phone 
-![Mobile Wireframe](./documentation/mobile.png)
+<img width="227" alt="image" src="https://user-images.githubusercontent.com/112728772/195933405-1b471eb2-ed1c-4651-be08-b7e864610981.png">
 
 #### Desktop
-![Desktop](./documentation/desktop.png)
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/112728772/195933485-c31a0172-3113-44c5-86fc-2fd8212168b9.png">
 
 #### Tablet
-![Tablet](./documentation/tablet.png)
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/112728772/195933791-12c65731-8a07-4eec-9cd9-712034e0c714.png">
 
 ## Features 
 
@@ -122,19 +122,19 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 ### Header
 - The header contain the hero-image of the site and a small box on the right inviting the user to join our club.
-![Header](./documentation/header.png)
+<img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934294-f3091332-d084-43b4-bbc0-1eb45d417c58.png">
 
 ### About Section 
-- The about section explain to the user more about this meetup club, for what purpose was created and show the main goal with users which is to help new members in the area of ​​technology, also an opportunity to show your project, talk about new softwares and socialize.
-![About](./documentation/about.png)
+- The about section explain to the user more about this meetup club, for what purpose was created and show the main goal with users which is to help new members in the area of technology, also an opportunity to show your project, talk about new softwares and socialize.
+<img width="1421" alt="image" src="https://user-images.githubusercontent.com/112728772/195934690-c1c8fbda-a506-454d-860f-c6daa09372d2.png">
 
 ### Sign Up Newsletter Section
 - The newsletter section has a form to collect data for the user who wants to be part of the club and receive new updates and weekly newsletter about the world of technology by email.
-![sign up](./documentation/sign-up.png)
+<img width="1400" alt="image" src="https://user-images.githubusercontent.com/112728772/195934830-cbff2d23-fc0c-4acb-b35b-62b5d13fc7ef.png">
 
 ### Footer Section
 - The footer has our contact on social networks, in case the user wants to contact us or just follow us to see our posts from our meetings.
-![Footer](./documentation/footer.png)
+<img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934932-1756ce20-a58c-4c87-92fc-7d1c457eff73.png">
 
 
 ### Languages Used 
@@ -160,9 +160,17 @@ The site was deployed to Github pages.
 ### Deploy to GitHub Pages
 
 1. Navigate to the settings tab in the GitHub repository
-2. Once in settings, navigate to the pages tab on the left of the page 
-3. Under source, select branch ‘master’ and then click ‘save’
-4. page will no automatically refresh and show a detailed ribbon display to indicate deployment
+<img width="1422" alt="image" src="https://user-images.githubusercontent.com/112728772/195935516-92364253-e0eb-49b0-a073-bc3697b535a0.png">
+
+2. Once in settings, navigate to the pages tab on the left of the page
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/112728772/195935737-4a44fd00-d911-4984-ac22-5cd16f11f74a.png">
+ 
+3. Under source, select branch ‘main’ and then click ‘save’
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/112728772/195936079-36d95a64-8671-4e5b-9335-6affa9f830ef.png">
+
+4. Page will not automatically refresh and show a detailed ribbon display to indicate deployment
+<img width="785" alt="image" src="https://user-images.githubusercontent.com/112728772/195937015-50ad61fc-31bd-4e8a-a0bf-8144f8a21bae.png">
+
 
 ### To Fork the Repository 
 
@@ -186,7 +194,11 @@ To make a copy or ‘fork’ the repository -
 
 
 ### Credits
-I would like to thank my mentor Malia for her help and advise all the time. 
+ - I would like to thank my mentor Malia for her help, tips and advise all the time.
+ - [Youtube](https://youtu.be/AltqAPZzAqo) This video helped me a lot to understand more about responsive media queries.
+ - [Stackoverflow](https://stackoverflow.com) When I was in doubt about something.
+ - [Code Institute](https://codeinstitute.net/nl/) With the Love Running project. 
+
 
 ### Media 
 The Hero-Image are from the free website: [Pexels](https://www.pexels.com/).
