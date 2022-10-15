@@ -7,6 +7,7 @@ The Dev's Connect site has been tested in the following ways -
     - [W3C CSS Validator](#w3c-css-validator)
 - [Lighthouse](#lighthouse)
 - [Browser Compatibility](#browser-compatibility)
+- [Manual_Testing](#manual-testing)
 - [Bugs](#bugs)
 
 ## Code Validation 
