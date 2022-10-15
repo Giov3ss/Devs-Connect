@@ -15,17 +15,17 @@ The Dev's Connect site has been tested in the following ways -
 
 Index Page:
 
-![W3C_Validator](./documentation/html-validator.png)
+<img width="1373" alt="image" src="https://user-images.githubusercontent.com/112728772/195978375-8c379ea9-36f8-4514-9863-838569d5ef13.png">
 
 Thanks Page:
 
-![W3C_Validator](./documentation/thanks_validator.png)
+<img width="1371" alt="image" src="https://user-images.githubusercontent.com/112728772/195978815-993a2348-4421-40ab-8201-3c860bfefc88.png">
 
 ### W3C CSS Validator 
 
 All pages passed the CSS validator without error. 
 
-![W3C_Validator_CSS](./documentation/css-validator.png)
+<img width="1381" alt="image" src="https://user-images.githubusercontent.com/112728772/195978422-6a489907-ec71-4a0c-8e4c-244d3ec15552.png">
 
 ## Lighthouse 
 
@@ -36,7 +36,12 @@ I used Lighthouse in Chrome Developer Tools to test each of the pages for:
 - Best Practices - How does the site conform to industry best practices.
 - SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
 
-![Lighthouse_Desktop_testing](./documentation/ligthhouse.png)
+#### Mobile:
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/112728772/195978485-3a878aab-8b69-472a-b909-b37c09fbae59.png">
+
+#### Desktop:
+<img width="548" alt="image" src="https://user-images.githubusercontent.com/112728772/195978727-caeeeff2-f372-4f01-bb50-34fc0afa94bd.png">
+
 
 ## Browser Compatibility
 
