@@ -64,6 +64,17 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 | Macbook       | Firefox 105          | macOS Catalina | 1440 x 821px  |
 | Macbook       | Chrome 106           | MacOS Catalina | 1440 x 821 px |
 
+## Manual Testing 
+
+### Manual Testing For Sign Up Form 
+
+ - [x] Try to submit
+ - [x] Try to submit the empty form and verify that an error message about the required fields appears
+ - [x] Try to submit the form with an invalid email address and verify that a relevant error message appears
+ - [x] Try to submit the form with all inputs valid and verify that a success messsage appears
+ - [x] No console errors
+ - [x] Looks good on Mobile, Tablet and Desktop 
+
 ## Bugs
 
 There are no bugs on the website.
