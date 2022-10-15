@@ -77,5 +77,8 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
  - [x] Looks good on Mobile, Tablet and Desktop 
 
 ## Bugs
+### Resolved 
+ - When the user scroll down the page, the nav bar disappear.
+ - I just added header { position: fixed; } to fix the nav bar, so when the user scroll down the page, the header still visible, and the user can click in the sections.
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/112728772/195998721-98a977b1-5d61-4d3a-a1c2-adb5c5bbadbf.png">
 
-There are no bugs on the website.
