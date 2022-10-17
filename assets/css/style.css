@@ -329,6 +329,15 @@ footer {
     color: rgba(98, 61, 43, 1);
 }
 
+.social-medias a {
+    height: 2rem;
+}
+
+.social-medias a:hover i {
+    color: powderblue;
+    transform: rotate(-5deg) scale(2);
+}
+
 .copyright {
     background-color: #fff;
     font-size: 0.9rem;
