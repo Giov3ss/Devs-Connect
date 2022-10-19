@@ -35,10 +35,10 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
         * [Header](#header)
         * [About Section](#about-section)
         * [Newsletter Section](#contact-section)
-        * [Footer](#footer)
+        * [Footer](#footer-section)
         
 3. [Technology Used](#technology-used)  
-    * [Language Used](#language-used)
+    * [Language Used](#languages-used)
     * [Tools and Libraries](#tools-and-libraries)
 
 4. [Testing](#testing)
@@ -46,7 +46,6 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
 5. [Deployment](#deployment)  
   
 6. [Credits](#credits)  
-    * [Content](#content)
     * [Media](#media)  
 
 - - -
@@ -139,11 +138,13 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 #### Footer Animation
 ![footeranimation](https://user-images.githubusercontent.com/112728772/196261894-eabcf037-1921-482e-8c61-783e3bc0068b.gif)
 
+## Technology Used
+
 ### Languages Used 
 
 - HTML and CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used
+### Tools and libraries
 - [Balsamiq](https://balsamiq.com/) - For Wireframes.
 - [Adobe Photoshop](https://www.adobe.com/) -  For manipulating images.
 - [coolors.co](https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) - The color scheme that was used on the site.
