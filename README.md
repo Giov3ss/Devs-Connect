@@ -85,6 +85,7 @@ The colours scheme was inspired by the Hero Image, with different shades of Dyke
 <img width="1398" alt="image" src="https://user-images.githubusercontent.com/112728772/195933184-342a6293-db43-4445-863f-68557b31ce38.png">
 
 The colour was design by [Coolors] (https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) to generate some color code as inspiration for the website. 
+* The chosen colors bring clarity to the website, making a contrast with different shades of brown, which is compatible with the main image, while still maintaining a high standard of design and reflecting even more on the main focus of the site.
 
 ### Typography
 
@@ -98,7 +99,7 @@ Quicksand: Was used for the content of the site.
 
 ### Imagery
 The photos were obtained from the free provider: [Pexels] (https://www.pexels.com/photo/group-of-people-watching-on-laptop-1595385/).
-
+* The image takes us to a new world, where more women are inserted in technological fields, also more inclusive and friendly, which shows that Technology is for everyone.
 
 ### Site Structure
 
@@ -144,7 +145,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - The footer has our contact on social networks, in case the user wants to contact us or just follow us to see our posts from our meetings.
 <img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934932-1756ce20-a58c-4c87-92fc-7d1c457eff73.png">
 
-#### Footer Animation
+### Footer Animation
 - The footer has an animation, so when the user hovers over the icon, the icon gets a little higher, changes color and rotates, to make the site more intuitive.
 ![footergif](https://user-images.githubusercontent.com/112728772/196797363-fb7d232a-ae67-412c-84cf-d577df5d4baa.gif)
 
@@ -177,6 +178,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - [Github](https://github.com/) - Used to deploy the website.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Used to creat an image displaying the homepage on multiple devices.
 - [Favicon](https://favicon.io/) - Used to create the Icon for the website.
+- [Table Generator](https://www.tablesgenerator.com/) - Used to create a table in the Browser Compatibility.
 
 
 ### Deployment 
