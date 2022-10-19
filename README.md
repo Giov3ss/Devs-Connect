@@ -55,6 +55,7 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
 - - -
 
 # **Table of Contents**
+## UX Development
 ### Project Goal 
 Show my competence building a responsive website using HTML and CSS.
 
@@ -75,6 +76,7 @@ The site should promote and help anyone who wants to start a career in the Techn
 
 ### Target Audience 
 * General Technology Consumers.
+* Anyone who wants to know more about Technology.
 
 ## Design
 ### Colour Scheme 
@@ -82,18 +84,21 @@ The site should promote and help anyone who wants to start a career in the Techn
 The colours scheme was inspired by the Hero Image, with different shades of Dyke Brown and Saddle Brown.
 <img width="1398" alt="image" src="https://user-images.githubusercontent.com/112728772/195933184-342a6293-db43-4445-863f-68557b31ce38.png">
 
-The colour was design by [Coolors] (https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) to generate some color code as inspiration for the website.
+The colour was design by [Coolors] (https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) to generate some color code as inspiration for the website. 
 
 ### Typography
 
 Google fonts was used:
 
-Righteous: Was used for the headings of the site
+Righteous: Was used for the headings of the site.
+* It is a font that matches the purpose of the site, the font format makes the site more interesting and brings a more technological look.
 
 Quicksand: Was used for the content of the site.
+* It has a natural design that brings the user clean reading.
 
 ### Imagery
 The photos were obtained from the free provider: [Pexels] (https://www.pexels.com/photo/group-of-people-watching-on-laptop-1595385/).
+
 
 ### Site Structure
 
@@ -171,6 +176,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - [Gitpod](https://www.gitpod.io/) - Used to create and host the website.
 - [Github](https://github.com/) - Used to deploy the website.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Used to creat an image displaying the homepage on multiple devices.
+- [Favicon](https://favicon.io/) - Used to create the Icon for the website.
 
 
 ### Deployment 
@@ -225,4 +231,5 @@ To make a copy or ‘fork’ the repository -
 
 ### Media 
  - The Hero-Image are from the free website: [Pexels](https://www.pexels.com/)
- - The icons used are from: [Fontawesome](https://fontawesome.com/)
+ - The icons used inside the page are from: [Fontawesome](https://fontawesome.com/)
+ - Icon for the website: [Favicon](https://favicon.io/)

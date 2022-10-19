@@ -106,4 +106,4 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/112728772/195998721-98a977b1-5d61-4d3a-a1c2-adb5c5bbadbf.png">
 
 
-[back to main readme](https://github.com/Giov3ss/Devs-Connect#testing)
+[Back to main readme](https://github.com/Giov3ss/Devs-Connect#testing)
