@@ -9,7 +9,7 @@ The Dev's Connect site has been tested in the following ways -
     - [W3C HTML Page 404](#page-404)
 - [Lighthouse](#lighthouse)
 - [Browser Compatibility](#browser-compatibility)
-- [Manual_Testing](#manual-testing)
+- [Manual Testing](#manual-testing)
 - [Bugs](#bugs)
 
 ## Code Validation 
@@ -78,14 +78,26 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 
 ## Manual Testing 
 
-### Manual Testing For Sign Up Form 
-
+### Manual Testing 
+#### Sign up Form:
  - [x] Try to submit
  - [x] Try to submit the empty form and verify that an error message about the required fields appears
  - [x] Try to submit the form with an invalid email address and verify that a relevant error message appears
  - [x] Try to submit the form with all inputs valid and verify that a success messsage appears
  - [x] No console errors
  - [x] Looks good on Mobile, Tablet and Desktop 
+ 
+ #### Thanks Page:
+-  [x] when sign up form is successfully entered, and a Thanks Page comes up
+-  [x] The links go to the right page
+-  [x] Social Medias in the footer open in a new tab to the correct destination
+-  [x] Navigation links go to the correct page/ section on index.html
+
+#### Page 404:
+-  [x] User goes within [Dev's Connect](https://giov3ss.github.io/Devs-Connect/) domain, but outside of expected index.html or thanks.html, they see the custom 404.html page.
+-  [x] Links on page go to the right section.
+-  [x] Social Medias in the footer open in a new tab to the correct destination.
+-  [x] Navigation links go to the correct page/ section on index.html
 
 ## Bugs
 ### Resolved 
