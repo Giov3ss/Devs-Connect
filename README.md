@@ -138,6 +138,8 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 #### Footer Animation
 ![footeranimation](https://user-images.githubusercontent.com/112728772/196261894-eabcf037-1921-482e-8c61-783e3bc0068b.gif)
 
+## Technology Used
+
 ### Languages Used 
 
 - HTML and CSS were used to create this website.
