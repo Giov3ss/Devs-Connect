@@ -36,6 +36,9 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
         * [About Section](#about-section)
         * [Newsletter Section](#contact-section)
         * [Footer](#footer-section)
+        * [Page 404](#Custom-page-404)
+        * [Thanks Page](#Thanks-Page)
+        * [Favicon](#Favicon)
         
 3. [Technology Used](#technology-used)  
     * [Language Used](#languages-used)
@@ -45,7 +48,8 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
 
 5. [Deployment](#deployment)  
   
-6. [Credits](#credits)  
+6. [Credits](#credits)
+    * [Contents](#contents)
     * [Media](#media)  
 
 - - -
@@ -115,6 +119,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - The navigation bar is responsive and fixed at the top of the page where it shows the name of the site and navigation bar on the right side. 
 - The links in the navigation bar on the right take the user to the right section of the site on the same page.
 <img width="1437" alt="image" src="https://user-images.githubusercontent.com/112728772/195979822-f98b38a7-07a9-4218-a617-6605f44a8998.png">
+- The navigation links scroll smoothly downwards so that when the user clicks on the section, there is no sudden movement.
 - For mobile navigation the nav bar stays in view as the user scroll down the page.
 <img width="429" alt="image" src="https://user-images.githubusercontent.com/112728772/195460078-0b5d4ce7-9f28-406a-b984-aaee55f42dab.png">
 
@@ -201,7 +206,11 @@ To make a copy or ‘fork’ the repository -
  - [Youtube](https://youtu.be/AltqAPZzAqo) This video helped me a lot to understand more about responsive media queries.
  - [Stackoverflow](https://stackoverflow.com) When I was in doubt about something.
  - [Code Institute](https://codeinstitute.net/nl/) With the Love Running project. 
+ - [Meetup](https://www.meetup.com/) That gave me the idea to create the site, also the paragraph used.
 
+### Contents
+- The website paragraph was taken from the website: [Meetup](https://www.meetup.com/devsconnect/)
 
 ### Media 
-The Hero-Image are from the free website: [Pexels](https://www.pexels.com/).
+ - The Hero-Image are from the free website: [Pexels](https://www.pexels.com/)
+ - The icons used are from: [Fontawesome](https://fontawesome.com/)
