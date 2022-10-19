@@ -5,6 +5,8 @@ The Dev's Connect site has been tested in the following ways -
 - [Code Validation](#code-validation)
     - [W3C HTML Validator](#w3c-html-validator) 
     - [W3C CSS Validator](#w3c-css-validator)
+    - [W3C HTML Thanks Page](#thanks-page)
+    - [W3C HTML Page 404](#page-404)
 - [Lighthouse](#lighthouse)
 - [Browser Compatibility](#browser-compatibility)
 - [Manual_Testing](#manual-testing)
@@ -14,19 +16,28 @@ The Dev's Connect site has been tested in the following ways -
 
 ### W3C HTML Validator
 
-Index Page:
+#### Index Page:
 
 <img width="1373" alt="image" src="https://user-images.githubusercontent.com/112728772/195978375-8c379ea9-36f8-4514-9863-838569d5ef13.png">
 
-Thanks Page:
-
-<img width="1371" alt="image" src="https://user-images.githubusercontent.com/112728772/195978815-993a2348-4421-40ab-8201-3c860bfefc88.png">
-
 ### W3C CSS Validator 
 
-All pages passed the CSS validator without error. 
+- All pages passed the CSS validator without error. 
 
 <img width="1381" alt="image" src="https://user-images.githubusercontent.com/112728772/195978422-6a489907-ec71-4a0c-8e4c-244d3ec15552.png">
+
+### W3C HTML Thanks Page 
+#### Thanks Page:
+
+<img width="1392" alt="image" src="https://user-images.githubusercontent.com/112728772/196808059-5ed0b943-1b4c-47e2-a104-59b8b75a0ac8.png">
+
+### W3C HTML Page 404
+#### Page 404:
+
+<img width="1380" alt="image" src="https://user-images.githubusercontent.com/112728772/196808542-804bd001-d3ac-46a7-8a77-be1cafc57471.png">
+
+
+
 
 ## Lighthouse 
 
