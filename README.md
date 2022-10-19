@@ -141,7 +141,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 <img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934932-1756ce20-a58c-4c87-92fc-7d1c457eff73.png">
 
 #### Footer Animation
-![footeranimation](https://user-images.githubusercontent.com/112728772/196261894-eabcf037-1921-482e-8c61-783e3bc0068b.gif)
+![footeranimation]![footergif](https://user-images.githubusercontent.com/112728772/196797363-fb7d232a-ae67-412c-84cf-d577df5d4baa.gif)
 
 ## Technology Used
 
