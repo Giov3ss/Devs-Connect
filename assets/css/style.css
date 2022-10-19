@@ -352,7 +352,7 @@ form.sign-form {
 }
 
 
-/* media tablet portrait (998px) */
+/* media laptops (998px) */
 
 @media screen and (max-width: 998px) {
     #hero-overflow {
@@ -391,7 +391,7 @@ form.sign-form {
     
 }
 
-/* widephones screen (678px) */
+/* horizontal phones screen (678px) */
 
 @media screen and (max-width: 680px) {
     #about {
@@ -526,7 +526,7 @@ form.sign-form {
     }
 }
 
-/* mobile media style 320px */
+/* Small Phones 320px */
 
 @media screen and (max-width: 320px) {
     #menu {
