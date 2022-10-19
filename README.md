@@ -144,7 +144,7 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 
 - HTML and CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used
+### Tools and libraries
 - [Balsamiq](https://balsamiq.com/) - For Wireframes.
 - [Adobe Photoshop](https://www.adobe.com/) -  For manipulating images.
 - [coolors.co](https://coolors.co/623d2b-935836-6c6f70-ebebed-b88a68) - The color scheme that was used on the site.
