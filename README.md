@@ -36,8 +36,8 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
         * [About Section](#about-section)
         * [Newsletter Section](#contact-section)
         * [Footer](#footer-section)
-        * [Page 404](#Custom-page-404)
         * [Thanks Page](#Thanks-Page)
+        * [Page 404](#Custom-page-404)
         * [Favicon](#Favicon)
         
 3. [Technology Used](#technology-used)  
@@ -123,7 +123,6 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - For mobile navigation the nav bar stays in view as the user scroll down the page.
 <img width="429" alt="image" src="https://user-images.githubusercontent.com/112728772/195460078-0b5d4ce7-9f28-406a-b984-aaee55f42dab.png">
 
-
 ### Header
 - The header contain the hero-image of the site and a small box on the right inviting the user to join our club.
 <img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934294-f3091332-d084-43b4-bbc0-1eb45d417c58.png">
@@ -143,6 +142,18 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 #### Footer Animation
 - The footer has an animation, so when the user hovers over the icon, the icon gets a little higher, changes color and rotates, to make the site more intuitive.
 ![footergif](https://user-images.githubusercontent.com/112728772/196797363-fb7d232a-ae67-412c-84cf-d577df5d4baa.gif)
+
+### Thanks Page 
+- The Thanks Page is the page when the user fills in the form and clicks the "Let's connect" button, opens a page on the website, and there is a thank you message to the user, also the navigation bar and the social media section and "Back to the home page" message, which leads to the section about us.
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/112728772/196799757-dc590aa0-5f06-4998-a541-e6b85976c858.png">
+
+### Page 404
+- The Page 404, it's the 404 Error, so if the user writes something wrong in the URL, a stylized message appears, the page also has the navigation bar, social networks, and the message "Back to the homepage", which takes to the about us section.
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/112728772/196802630-5828ca46-feb2-4fd9-ab57-b1802875a2a7.png">
+
+### Favicon
+- The site has a Favicon, both the main page, the thank you page and the 404 page also have it, since the site is about technology I chose a Computer Icon.
+<img width="123" alt="image" src="https://user-images.githubusercontent.com/112728772/196803733-62613e4a-9b5d-4162-894a-fa141209690f.png">
 
 ## Technology Used
 
