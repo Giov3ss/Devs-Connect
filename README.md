@@ -35,10 +35,10 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
         * [Header](#header)
         * [About Section](#about-section)
         * [Newsletter Section](#contact-section)
-        * [Footer](#footer)
+        * [Footer](#footer-section)
         
 3. [Technology Used](#technology-used)  
-    * [Language Used](#language-used)
+    * [Language Used](#languages-used)
     * [Tools and Libraries](#tools-and-libraries)
 
 4. [Testing](#testing)
@@ -46,7 +46,6 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
 5. [Deployment](#deployment)  
   
 6. [Credits](#credits)  
-    * [Content](#content)
     * [Media](#media)  
 
 - - -
