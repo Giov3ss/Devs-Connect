@@ -157,15 +157,11 @@ header {
 }
 
 .maps {
-   /* position: absolute; */
     height: 13rem;
-    width: 50%;
-   /* top: 61rem; */ 
-    
+    width: 50%;  
     flex-direction: column;
     padding-top: 4%;
-    
-    
+     
 }
 
 /* styling sign-up and forms */
@@ -300,8 +296,6 @@ body #sign-up {
 }
 
 
-
-
 /* styling footer */
 
 #contact h2 {
@@ -358,8 +352,7 @@ form.sign-form {
 }
 
 
-/* media (998px) */
-
+/* media tablet portrait (998px) */
 
 @media screen and (max-width: 998px) {
     #hero-overflow {
@@ -367,6 +360,7 @@ form.sign-form {
     }
     
 }
+
 
 /* tablet portrait mode (768px) */
 
@@ -397,7 +391,7 @@ form.sign-form {
     
 }
 
-/* widephones (678px) */
+/* widephones screen (678px) */
 
 @media screen and (max-width: 680px) {
     #about {
@@ -511,7 +505,7 @@ form.sign-form {
 }
  
 
-/* media 375px */
+/* mobile media style 375px */
 
 @media screen and (max-width: 375px) {
     #about {
@@ -532,7 +526,7 @@ form.sign-form {
     }
 }
 
-/* media 320px */
+/* mobile media style 320px */
 
 @media screen and (max-width: 320px) {
     #menu {
