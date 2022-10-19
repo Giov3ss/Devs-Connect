@@ -141,7 +141,8 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 <img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934932-1756ce20-a58c-4c87-92fc-7d1c457eff73.png">
 
 #### Footer Animation
-![footeranimation]![footergif](https://user-images.githubusercontent.com/112728772/196797363-fb7d232a-ae67-412c-84cf-d577df5d4baa.gif)
+- The footer has an animation, so when the user hovers over the icon, the icon gets a little higher, changes color and rotates, to make the site more intuitive.
+![footergif](https://user-images.githubusercontent.com/112728772/196797363-fb7d232a-ae67-412c-84cf-d577df5d4baa.gif)
 
 ## Technology Used
 
