@@ -11,6 +11,8 @@ The Dev's Connect site has been tested in the following ways -
 - [Browser Compatibility](#browser-compatibility)
 - [Manual Testing](#manual-testing)
 - [Bugs](#bugs)
+  * [Defects of note](#defects-of-note)
+- [Outstanding Defects](#outstanding-defects)
 
 ## Code Validation 
 
@@ -107,10 +109,24 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 -  [x] Navigation links go to the correct page/ section on index.html
 
 ## Bugs
-### Resolved 
- - When the user scroll down the page, the nav bar disappear.
- - I just added header { position: fixed; } to fix the nav bar, so when the user scroll down the page, the header still visible, and the user can click in the sections.
+- Constant unit test was done as the features were added. Fixed, checked with appropriate commit messages. No official tracking system was used as the project scope was relatively small.
+
+### Defects of note 
+- I had a problem where the user scrolls the page, the navigation bar disappears.
+  * I just added header { position: fixed; } to fix the nav bar, so when the user scroll down the page, the header still visible, and the user can click in the sections.
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/112728772/195998721-98a977b1-5d61-4d3a-a1c2-adb5c5bbadbf.png">
 
+- Also the "About us" section when the text was centered and on a small device it was difficult to read.
+  * So I just addded the {text-align:left} to the About Us text, to make it easy to read.
+
+- Also the Sign Up section, the form was really narrow in a small devices, because of the margins that I put before.
+  * I just updated the breakpoints in the .container, with new values, to have the gray background on small devices like desktop.
+
+## Outstanding Defects
+
+- No outstanding defects exist at this time that the developer is aware of.
+
+
+## MAIN PAGE (README)
 
 [Back to main readme](https://github.com/Giov3ss/Devs-Connect#testing)
