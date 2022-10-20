@@ -30,15 +30,14 @@ Dev's Connect is a meetup club for digital professionals, students and enthusias
         * [Wireframes](#wireframes)
       
 2. [Features](#features)  
-    * [Existing Features](#existing-features)
-        * [Navigation Bar](#navigation-bar)
-        * [Header](#header)
-        * [About Section](#about-section)
-        * [Newsletter Section](#contact-section)
-        * [Footer](#footer-section)
-        * [Thanks Page](#Thanks-Page)
-        * [Page 404](#Custom-page-404)
-        * [Favicon](#Favicon)
+    * [Navigation Bar](#navigation-bar)
+    * [Header](#header)
+    * [About Us](#about-us)
+    * [Sign Up](#sign-up)
+    * [Footer](#footer-section)
+    * [Thanks Page](#Thanks-Page)
+    * [Page 404](#page-404)
+    * [Favicon](#Favicon)
         
 3. [Technology Used](#technology-used)  
     * [Language Used](#languages-used)
@@ -133,12 +132,12 @@ The wireframes were produced using: [Balsamiq](https://balsamiq.com/).
 - The header contain the hero-image of the site and a small box on the right inviting the user to join our club.
 <img width="1402" alt="image" src="https://user-images.githubusercontent.com/112728772/195934294-f3091332-d084-43b4-bbc0-1eb45d417c58.png">
 
-### About Section 
+### About Us 
 - The about section explain to the user more about this meetup club, for what purpose was created and show the main goal with users which is to help new members in the area of technology, also an opportunity to show your project, talk about new softwares and socialize.
 <img width="1421" alt="image" src="https://user-images.githubusercontent.com/112728772/195934690-c1c8fbda-a506-454d-860f-c6daa09372d2.png">
 
-### Sign Up Newsletter Section
-- The newsletter section has a form to collect data for the user who wants to be part of the club and receive new updates and weekly newsletter about the world of technology by email.
+### Sign Up 
+- The Sign Up section has a form to collect data for the user who wants to be part of the club and receive new updates and weekly newsletter about the world of technology by email.
 <img width="1400" alt="image" src="https://user-images.githubusercontent.com/112728772/195934830-cbff2d23-fc0c-4acb-b35b-62b5d13fc7ef.png">
 
 ### Footer Section
