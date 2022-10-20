@@ -102,7 +102,7 @@ The photos were obtained from the free provider: [Pexels] (https://www.pexels.co
 
 ### Site Structure
 
-Dev's Connect is a 4-section and 2-page website. The home page is the default loading page and the other sections are accessible from the navigation menu on the right side of the page.
+Dev's Connect is a 4-section and 2-page website and 404 page. The home page is the default loading page and the other sections are accessible from the navigation menu on the right side of the page.
 
 ### Wireframes 
 
