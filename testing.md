@@ -86,6 +86,13 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
  - [x] Try to submit the form with all inputs valid and verify that a success messsage appears
  - [x] No console errors
  - [x] Looks good on Mobile, Tablet and Desktop 
+
+ #### Responsive Testing:
+ - For each Device/ Browser/ OS noted in the Browser Compatibility Table, this flow was tested:
+ - [x] Click or tap on Signup - verify smooth scrolling and no distortions in about us & map. 
+ - [x] Form is easy to access and invalid entries are noted.
+ - [x] Submission of form takes user to Thanks Page.
+ - [x] Thanks Page takes user back to index.html to apropriate section
  
  #### Thanks Page:
 -  [x] when sign up form is successfully entered, and a Thanks Page comes up
